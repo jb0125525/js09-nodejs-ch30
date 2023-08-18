@@ -1,0 +1,26 @@
+{
+  "name": "js09-nodejs-ch30",
+  "version": "1.0.1",
+  "description": "Uso de nodejs y axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hola aqui se introduce quien hace las PU\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jb0125525/js09-nodejs-ch30.git"
+  },
+  "keywords": [
+    "axios",
+    "bootstrap"
+  ],
+  "author": "Jimena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jb0125525/js09-nodejs-ch30/issues"
+  },
+  "homepage": "https://github.com/jb0125525/js09-nodejs-ch30#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
